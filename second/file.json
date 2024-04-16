@@ -1,0 +1,1 @@
+(9830dcfb-115a-4aaf-aa1d-69818e95c1ab) {'id': '9830dcfb-115a-4aaf-aa1d-69818e95c1ab', 'created_at': datetime.datetime(2024, 3, 9, 8, 23, 26, 843981), 'updated_at': datetime.datetime(2024, 3, 9, 8, 47, 47, 159490), 'first_name': 'Daniel', 'last_name': 'Bar', 'email': 'airbnb@mail.com', '_password': 'root', 'age': '20'}
